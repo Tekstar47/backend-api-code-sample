@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SPL API": {
+      "commandName": "Project",
+      "commandLineArgs": "--dotnet"
+    }
+  }
+}
